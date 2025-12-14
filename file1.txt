@@ -1,1 +1,2 @@
-This is an File 1 for my Git Learnings
+This is an File 1 for my Git Learnings.
+added a new line.
